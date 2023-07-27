@@ -1,0 +1,23 @@
+1번
+{
+    "project" : [
+        {
+            "project_id": "aaa",
+            "code": "lv1"
+        },
+        {
+            "project_id": "bbb",
+            "code": "lv1"
+        },
+        {,,,}
+    ]
+
+}
+
+
+
+2번
+{
+    "project_id" : ["aaa", "bbb"],
+    "code": ["lv1, lv2", ...]
+}
